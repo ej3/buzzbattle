@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Buzz Battle</string>
+    <string name="A_TXT">A</string>
+    <string name="B_TXT">B</string>
+    <string name="C_TXT">C</string>
+    <string name="D_TXT">D</string>
+    <string name="E_TXT">E</string>
+    <string name="F_TXT">F</string>
+</resources>
